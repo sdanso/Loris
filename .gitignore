@@ -3,3 +3,9 @@ _site
 .jekyll-metadata
 *.DS_Store
 .idea
+
+
+node_modules/
+project/
+smarty/
+vendor/
